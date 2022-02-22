@@ -10,6 +10,6 @@ Will be listing branches below with their respective links az well.
 
 1. Main Branch: Boiler plate [https://github.com/shreyas-25/Super50/tree/main]
 2. Expanding cards for Naruto characters. [https://github.com/shreyas-25/Super50/tree/ExpandingCards]
-
+3. Progress Steps [https://github.com/shreyas-25/Super50/tree/TheSteps]
 
 Technologies used: HTML, CSS, Vanilla JavaScript, Git, GitHub.
